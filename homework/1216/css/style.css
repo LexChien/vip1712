@@ -91,5 +91,6 @@
     text-decoration:none;
 }
 .navCategoryMenu .itemLink a:hover {
-    color: red;		    
+    color: red;	
+    text-decoration:underline;	    
 }
